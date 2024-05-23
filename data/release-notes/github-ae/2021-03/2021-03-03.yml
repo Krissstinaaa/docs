@@ -1,25 +1,7 @@
-date: '2021-03-03'
-friendlyDate: 'March 3, 2021'
-title: 'Week of March 3, 2021'
-currentWeek: false
-sections:
-  features:
-    - heading: 'GitHub Actions beta'
-      notes:
-        - |
-          [{% data variables.product.prodname_actions %}](https://github.com/features/actions) is a powerful, flexible solution for CI/CD and workflow automation. For more information, see "[Introduction to {% data variables.product.prodname_actions %}](/actions/learn-github-actions/introduction-to-github-actions)."
+delete 
 
-          Please note that when {% data variables.product.prodname_actions %} is enabled during this upgrade, two organizations named "GitHub Actions" (@**actions** and @**github**) will appear in {% data variables.product.product_location %}. These organizations are required by {% data variables.product.prodname_actions %}. Users named @**ghost** and @**actions** appear as the actors for creation of these organizations in the audit log.
-    - heading: 'GitHub Packages beta'
-      notes:
-        - |
-          [{% data variables.product.prodname_registry %}](https://github.com/features/packages) is a package hosting service, natively integrated with {% data variables.product.prodname_actions %}, APIs, and webhooks. Create an [end-to-end DevOps workflow](/github-ae@latest/packages/quickstart) that includes your code, continuous integration, and deployment solutions. During this beta, {% data variables.product.prodname_registry %} is offered free of charge to {% data variables.product.product_name %} customers.
-    - heading: 'GitHub Advanced Security beta'
-      notes:
-        - |
-          {% data variables.product.prodname_GH_advanced_security %} is available in beta and includes both code scanning and secret scanning. During this beta, {% data variables.product.prodname_GH_advanced_security %} features are being offered free of charge to {% data variables.product.product_name %} customers. Repository and organization administrators can opt-in to use {% data variables.product.prodname_GH_advanced_security %} in the Security and Analysis tab under settings.
 
-          Learn more about {% data variables.product.prodname_GH_advanced_security %} [code scanning](/github/finding-security-vulnerabilities-and-errors-in-your-code/about-code-scanning) and [secret scanning](/github/administering-a-repository/about-secret-scanning) on {% data variables.product.prodname_ghe_managed %}.
+_advancedd %}.
 
     - heading: Manage teams from your identity provider (IdP)
       notes:
